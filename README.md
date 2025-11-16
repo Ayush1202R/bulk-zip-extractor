@@ -8,7 +8,6 @@ The tool creates separate folders for each ZIP file and removes the original ZIP
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-https://bulk-zip-extractor.streamlit.app/
 
 [![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://bulk-zip-extractor.streamlit.app/)
 
