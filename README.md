@@ -5,7 +5,16 @@ The tool creates separate folders for each ZIP file and removes the original ZIP
 
 ---
 
-## 🚀 Features
+## 🚀 Live Demo
+
+🔗 **Streamlit App:**  
+https://bulk-zip-extractor.streamlit.app/
+
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen)](https://bulk-zip-extractor.streamlit.app/)
+
+---
+
+## ✨ Features
 
 - Detects all `.zip` files inside the selected folder  
 - Extracts each ZIP into **its own subfolder**  
@@ -30,3 +39,6 @@ The tool creates separate folders for each ZIP file and removes the original ZIP
 ```bash
 pip install streamlit
 streamlit run app.py
+
+## Author
+Ayush Radharaman Pandey
